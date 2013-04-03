@@ -408,6 +408,7 @@
 				GCC_PREFIX_HEADER = "Mania/Mania-Prefix.pch";
 				INFOPLIST_FILE = "Mania/Mania-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 1;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -419,6 +420,7 @@
 				GCC_PREFIX_HEADER = "Mania/Mania-Prefix.pch";
 				INFOPLIST_FILE = "Mania/Mania-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 1;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
